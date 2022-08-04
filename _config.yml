@@ -1,11 +1,11 @@
-title: Course name (edit _config.yml)
+title: INF-2200 Computer architecture and organization - Fall 2022
 
 description: > # this means to ignore newlines until "contact:"
   Course description.
 
 contact:
-  email: firstname.lastname@uit.no
-  name: Firstname Lastname (edit _config.yml)
+  email: lars.ailo.bongo@uit.no
+  name: Lars Ailo Bongo
 
 # you don't need to adapt the settings below
 baseurl: ""
