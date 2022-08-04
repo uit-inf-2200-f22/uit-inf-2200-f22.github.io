@@ -1,6 +1,5 @@
 ---
 layout: default
-title: inf-2200-f22
 ---
 
 ## Administrative information
