@@ -41,12 +41,12 @@ Som student plikter du å sette deg inn i reglene som gjelder for bruk av hjelpe
 | L5   | XX.YY.22 |  | Lars Ailo |
 | L6   | XX.YY.22 |  | Lars Ailo |
 | L7   | XX.YY.22 |  | Lars Ailo |
-| L7   | XX.YY.22 |  | Vi        |
-| L8   | XX.YY.22 |  | Vi        |
-| L9   | XX.YY.22 |  | Vi        |
-| L10  | XX.YY.22 |  | Vi        |
-| L11  | XX.YY.22 |  | Vi        |
-| L12  | XX.YY.22 |  | Vi        |
+| L7   | XX.YY.22 | Cache 1  | Vi        |
+| L8   | XX.YY.22 | Cache 2 | Vi        |
+| L9   | XX.YY.22 | Parallel 1 | Vi        |
+| L10  | XX.YY.22 | Parallel 2 | Vi        |
+| L11  | XX.YY.22 | GPU        | Vi        |
+| L12  | XX.YY.22 | Bonus      | Vi        |
 | Exam | 02.12.22 | -            | -         |
 
 ## Mandatory assignments
