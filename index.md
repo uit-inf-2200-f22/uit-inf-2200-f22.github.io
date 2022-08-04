@@ -32,6 +32,9 @@ Som student plikter du å sette deg inn i reglene som gjelder for bruk av hjelpe
 | Lecture   	| Date		    | Subject	  | Lecturer |
 |-------------|-------------|-----------|----------|
 | L1   | 22.08.22 | Introduction | Lars Ailo |
+| P1   | 23.08.22 | Precepts 1   | Lars Ailo |
+| P2   | 13.09.22 | Precepts 2   | Lars Ailo |
+| P3   | 18.10.22 | Precepts 3   | Lars Ailo |
 | L2   | XX.YY.22 |  | Lars Ailo |
 | L3   | XX.YY.22 |  | Lars Ailo |
 | L4   | XX.YY.22 |  | Lars Ailo |
