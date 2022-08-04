@@ -4,9 +4,11 @@ layout: default
 
 ## Administrative information
 
-Administrative course information is available [here]([URL](https://uit.no/utdanning/emner/emne/765734/inf-2200))
+Administrative course information is available [here](https://uit.no/utdanning/emner/emne/765734/inf-2200))
 
 We use the course Discord for discussions and to send important information. You will find the invite link in Canvas.
+
+The github organization for this course is: [github.com/uit-inf-2200-f22/](https://github.com/uit-inf-2200-f22/)
 
 The Timeplan for the course is [here](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=INF-2200-1#week=33-52)
 
