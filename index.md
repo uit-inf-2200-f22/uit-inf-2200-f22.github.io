@@ -4,7 +4,7 @@ layout: default
 
 ## Administrative information
 
-Administrative course information is available [here](https://uit.no/utdanning/emner/emne/765734/inf-2200))
+Administrative course information is available [here](https://uit.no/utdanning/emner/emne/765734/inf-2200)
 
 We use the course Discord for discussions and to send important information. You will find the invite link in Canvas.
 
