@@ -13,10 +13,10 @@ The Timeplan for the course is [here](https://timeplan.uit.no/emne_timeplan.php?
 **Staff:**
 * Lars Ailo Bongo <lars.ailo.bongo@uit.no> (Lecturer, Course responsible)
 * Vi Tran <vi.tran@uit.no> (Lecturer)
-* Fredrik Hagen Fasteraune <ffa005@post.uit.no> (Teaching assistant)
-* Fredrik Skancke Mørstad <fmo023@post.uit.no>  (Teaching assistant)
-* Børge Bårdsen <bba053@post.uit.no> (Teaching assistant)
-* Alexander Torkelsen <ato058@post.uit.no> (Teaching assistant)
+* Fredrik Hagen Fasteraune <ffa005@post.uit.no> (Teaching assistant group 1)
+* Fredrik Skancke Mørstad <fmo023@post.uit.no>  (Teaching assistant group 2)
+* Børge Bårdsen <bba053@post.uit.no> (Teaching assistant group 3)
+* Alexander Torkelsen <ato058@post.uit.no> (Teaching assistant group 4)
 
 **Mandatory readings:**
 * David A. Patterson. John L. Hennessy, Computer Organization and Design - The Hardware/Software Interface, 6 Ed. Chapters 1-6. Appendix B and C.
@@ -30,8 +30,8 @@ Som student plikter du å sette deg inn i reglene som gjelder for bruk av hjelpe
 ## Lecture plan
 
 | Lecture   	| Date		    | Subject	  | Lecturer |
-|-----------|-----------|-----------|----------|
-| L1  | Date | [Introduction](lectures/01-introduction.pptx) | Lecturer |
+|-------------|-------------|-----------|----------|
+| L1  | 22.08.22 | Introduction | Lars Ailo |
 
 ## Readings
 
@@ -39,10 +39,9 @@ Som student plikter du å sette deg inn i reglene som gjelder for bruk av hjelpe
 
 ## Mandatory assignments
 
-| Project |	Start      | Due     | Subject | Lecturer |
-|---------|------------|---------|----------|---------|
-| P1 	    | Date       | Date     | [Assignment](URL) | Lecturer
+| Project |	Start      | Design review | Due |
+|---------|------------|---------------|-----|
+| Micobenchmark in assembly | XX.YY.22 | XX.YY.22 | XX.YY.22 |
+| MIPS Simulator            | XX.YY.22 | XX.YY.22 | XX.YY.22 |
+| Cache simulator           | XX.YY.22 | XX.YY.22 | XX.YY.22 |
 
-## Exercises
-
-1.
