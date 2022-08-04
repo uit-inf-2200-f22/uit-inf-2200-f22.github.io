@@ -31,17 +31,26 @@ Som student plikter du å sette deg inn i reglene som gjelder for bruk av hjelpe
 
 | Lecture   	| Date		    | Subject	  | Lecturer |
 |-------------|-------------|-----------|----------|
-| L1  | 22.08.22 | Introduction | Lars Ailo |
-
-## Readings
-
-1.
+| L1   | 22.08.22 | Introduction | Lars Ailo |
+| L2   | XX.YY.22 |  | Lars Ailo |
+| L3   | XX.YY.22 |  | Lars Ailo |
+| L4   | XX.YY.22 |  | Lars Ailo |
+| L5   | XX.YY.22 |  | Lars Ailo |
+| L6   | XX.YY.22 |  | Lars Ailo |
+| L7   | XX.YY.22 |  | Lars Ailo |
+| L7   | XX.YY.22 |  | Vi        |
+| L8   | XX.YY.22 |  | Vi        |
+| L9   | XX.YY.22 |  | Vi        |
+| L10  | XX.YY.22 |  | Vi        |
+| L11  | XX.YY.22 |  | Vi        |
+| L12  | XX.YY.22 |  | Vi        |
+| Exam | 02.12.22 | -            | -         |
 
 ## Mandatory assignments
 
 | Project |	Start      | Design review | Due |
 |---------|------------|---------------|-----|
-| Micobenchmark in assembly | XX.YY.22 | XX.YY.22 | XX.YY.22 |
-| MIPS Simulator            | XX.YY.22 | XX.YY.22 | XX.YY.22 |
-| Cache simulator           | XX.YY.22 | XX.YY.22 | XX.YY.22 |
+| Micobenchmark in assembly | 23.08.22 | 31.08.22 & 02.09.22 | 13.09.22 |
+| MIPS Simulator            | 13.09.22 | 28.09.22 & 30.09.22 | 18.10.22 |
+| Cache simulator           | 18.10.22 | 26.10.22 & 28.10.22 | 11.11.22 |
 
