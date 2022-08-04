@@ -11,7 +11,12 @@ We use the course Discord for discussions and to send important information. You
 The Timeplan for the course is [here](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module=INF-2200-1#week=33-52)
 
 ## Staff
-*
+* Lars Ailo Bongo <lars.ailo.bongo@uit.no> (Lecturer, Course responsible)
+* Vi Tran <vi.tran@uit.no> (Lecturer)
+* Fredrik Hagen Fasteraune <ffa005@post.uit.no> (Teaching assistant)
+* Fredrik Skancke Mørstad <fmo023@post.uit.no>  (Teaching assistant)
+* Børge Bårdsen <bba053@post.uit.no> (Teaching assistant)
+* Alexander Torkelsen <ato058@post.uit.no> (Teaching assistant)
 
 ## Lecture plan
 
