@@ -29,31 +29,31 @@ Som student plikter du å sette deg inn i reglene som gjelder for bruk av hjelpe
 
 ## Lecture plan
 
-| Lecture   	| Date		    | Subject	  | Lecturer |
-|-------------|-------------|-----------|----------|
-| L1   | 22.08.22 | Introduction | Lars Ailo |
-| P1   | 23.08.22 | Precepts 1   | Lars Ailo |
-| P2   | 13.09.22 | Precepts 2   | Lars Ailo |
-| P3   | 18.10.22 | Precepts 3   | Lars Ailo |
-| L2   | XX.YY.22 |  | Lars Ailo |
-| L3   | XX.YY.22 |  | Lars Ailo |
-| L4   | XX.YY.22 |  | Lars Ailo |
-| L5   | XX.YY.22 |  | Lars Ailo |
-| L6   | XX.YY.22 |  | Lars Ailo |
-| L7   | XX.YY.22 |  | Lars Ailo |
-| L7   | XX.YY.22 | Cache 1  | Vi        |
-| L8   | XX.YY.22 | Cache 2 | Vi        |
-| L9   | XX.YY.22 | Parallel 1 | Vi        |
-| L10  | XX.YY.22 | Parallel 2 | Vi        |
-| L11  | XX.YY.22 | GPU        | Vi        |
-| L12  | XX.YY.22 | Bonus      | Vi        |
-| Exam | 02.12.22 | -            | -         |
+| Lecture   	| Date		    | Subject	  | Lecturer | Readings | 
+|-------------|-------------|-----------|----------|----------|
+| L1   | 22.08.22 | Introduction   | Lars Ailo | Chapter 1 |
+| P1   | 23.08.22 | Precepts 1     | Lars Ailo | -         |
+| L2   | 29.08.22 | Instructions 1 | Lars Ailo | Chapter 2 |
+| L3   | 30.08.22 | Instructions 2 | Lars Ailo | Chapter 2 |
+| L4   | 06.09.22 | Logic design   | Vi        | Appendix B |
+| L5   | 12.09.22 | Arithmetic     | Lars Ailo | Chapter 3 |
+| P2   | 20.09.22 | Precepts 2     | Lars Ailo | -         |
+| L6   | 26.09.22 | Processor 1    | Lars Ailo | Chapter 4 |
+| L7   | 27.09.22 | Processor 2    | Lars Ailo | Chapter 4 |
+| L8   | 04.10.22 | Floating point | Lars Ailo | Chapter 3 |
+| P3   | 18.10.22 | Precepts 3     | Vi        | -         |
+| L9   | 24.10.22 | Cache 1        | Vi        | Chapter 5 |
+| L10  | 25.10.22 | Cache 2        | Vi        | Chapter 5 |
+| L11  | 07.11.22 | Parallel 1     | Vi        | Chapter 6 |
+| L12  | 14.11.22 | GPU            | Vi        | Appendix C |
+| L13  | 21.11.22 | Bonus          | Vi        | TBA        |
+| Exam | 02.12.22 | -              | -         | Everything |
 
 ## Mandatory assignments
 
 | Project |	Start      | Design review | Due |
 |---------|------------|---------------|-----|
-| Micobenchmark in assembly | 23.08.22 | 31.08.22 & 02.09.22 | 13.09.22 |
-| MIPS Simulator            | 13.09.22 | 28.09.22 & 30.09.22 | 18.10.22 |
-| Cache simulator           | 18.10.22 | 26.10.22 & 28.10.22 | 11.11.22 |
+| Micobenchmark in assembly | 23.08.22 | 07.09.22 & 09.09.22 | 20.09.22 |
+| MIPS Simulator            | 20.09.22 | 05.10.22 & 07.10.22 | 18.10.22 |
+| Cache simulator           | 18.10.22 | 02.11.22 & 04.11.22 | 11.11.22 |
 
