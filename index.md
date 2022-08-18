@@ -61,3 +61,4 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | MIPS Simulator            | 20.09.22 | 05.10.22 & 07.10.22 | 18.10.22 |
 | Cache simulator           | 18.10.22 | 02.11.22 & 04.11.22 | 11.11.22 |
 
+You will receive a GitHub Classroom link to each assignment in Discord.  
