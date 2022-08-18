@@ -30,6 +30,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 **Mandatory readings:**
 * David A. Patterson. John L. Hennessy, Computer Organization and Design - The Hardware/Software Interface, 6 Ed. Chapters 1-6. Appendix B and C.
+** [Online material](https://www.elsevier.com/books-and-journals/book-companion/9780128201091)
 * All lecture slides
 * Mandatory assignments
 
@@ -38,7 +39,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | L1   | 22.08.22 | Introduction   | Lars Ailo | Chapter 1 |
 | P1   | 23.08.22 | Precepts 1     | Lars Ailo | -         |
 | L2   | 29.08.22 | Instructions 1 | Lars Ailo | Chapter 2 |
-| L3   | 30.08.22 | Instructions 2 | Lars Ailo | Chapter 2 |
+| L3   | 30.08.22 | Instructions 2 | Vi        | Chapter 2 |
 | L4   | 06.09.22 | Logic design   | Vi        | Appendix B |
 | L5   | 12.09.22 | Arithmetic     | Lars Ailo | Chapter 3 |
 | P2   | 20.09.22 | Precepts 2     | Lars Ailo | -         |
