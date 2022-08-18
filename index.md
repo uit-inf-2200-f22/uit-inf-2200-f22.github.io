@@ -29,8 +29,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 ## Lecture plan
 
 **Mandatory readings:**
-* David A. Patterson. John L. Hennessy, Computer Organization and Design - The Hardware/Software Interface, 6 Ed. Chapters 1-6. Appendix B and C.
-** [Online material](https://www.elsevier.com/books-and-journals/book-companion/9780128201091)
+* David A. Patterson. John L. Hennessy, Computer Organization and Design - The Hardware/Software Interface, 6 Ed. Chapters 1-6. Appendix B and [C](https://www.elsevier.com/__data/assets/pdf_file/0010/1191376/Appendix-C.PDF).
 * All lecture slides
 * Mandatory assignments
 
