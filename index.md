@@ -57,7 +57,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 | Project |	Start      | Design review | Due |
 |---------|------------|---------------|-----|
-| Micobenchmark in assembly | 23.08.22 | 07.09.22 & 09.09.22 | 20.09.22 |
+| [Micobenchmark in assembly](https://docs.google.com/presentation/d/1G9bGPCN8dQBoD9W9WDQn7lHHCqdyZoLpBqy1hoC-Eto/edit#slide=id.p1) | 23.08.22 | 07.09.22 & 09.09.22 | 20.09.22 |
 | MIPS Simulator            | 20.09.22 | 05.10.22 & 07.10.22 | 18.10.22 |
 | Cache simulator           | 18.10.22 | 02.11.22 & 04.11.22 | 11.11.22 |
 
