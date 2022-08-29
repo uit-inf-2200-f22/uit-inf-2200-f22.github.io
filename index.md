@@ -36,8 +36,8 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | Lecture   	| Date		    | Subject	  | Lecturer | Readings | 
 |-------------|-------------|-----------|----------|----------|
 | L1   | 22.08.22 | [Introduction](https://docs.google.com/presentation/d/18G0WcXLvX5m9Rar_Q_c77k_WDjjMHi2wAuCiXCynHJI/edit#slide=id.p1)   | Lars Ailo | Chapter 1 |
-| P1   | 23.08.22 | Precepts 1     | Lars Ailo | -         |
-| L2   | 29.08.22 | Instructions 1 | Lars Ailo | Chapter 2 |
+| P1   | 23.08.22 | Precepts 1 (slides are in assignment repository) | Lars Ailo | -         |
+| L2   | 29.08.22 | [Instructions 1](https://discord.com/channels/1004719427545206824/1004864254479974470/1013685368987582555) | Lars Ailo | Chapter 2 |
 | L3   | 30.08.22 | Instructions 2 | Vi        | Chapter 2 |
 | L4   | 06.09.22 | Logic design   | Vi        | Appendix B |
 | L5   | 12.09.22 | Arithmetic     | Lars Ailo | Chapter 3 |
