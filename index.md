@@ -39,7 +39,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | P1   | 23.08.22 | Precepts 1 (slides are in assignment repository) | Lars Ailo | -         |
 | L2   | 29.08.22 | [Instructions 1](https://docs.google.com/presentation/d/1enTL_d8FoxpBt8uEYd3thWolPcLe_O_VRD9nEhfls7I/edit#slide=id.p1) | Lars Ailo | Chapter 2 |
 | L3   | 30.08.22 | [Instructions 2](https://drive.google.com/file/d/1oP-XfW0V8ovFGW9tq7UcI20VIsbIPDlC/view?usp=sharing) | Vi        | Chapter 2 |
-| L4   | 06.09.22 | [Logic design](https://drive.google.com/file/d/1Ote4bozq-Lp8RtizrRPokcFXyNZrkNV_/view?usp=sharing)   | Vi        | Appendix B |
+| L4   | 06.09.22 | [Logic design](https://drive.google.com/file/d/1NYNTV4KDps1EEi_zvN7MILyZRhnJT-Xj/view?usp=sharing)   | Vi        | Appendix B |
 | L5   | 12.09.22 | Arithmetic     | Lars Ailo | Chapter 3 |
 | P2   | 20.09.22 | Precepts 2     | Lars Ailo | -         |
 | L6   | 26.09.22 | Processor 1    | Lars Ailo | Chapter 4 |
