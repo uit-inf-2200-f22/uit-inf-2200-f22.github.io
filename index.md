@@ -36,7 +36,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | Lecture   	| Date		    | Subject	  | Lecturer | Readings | 
 |-------------|-------------|-----------|----------|----------|
 | L1   | 22.08.22 | [Introduction](https://docs.google.com/presentation/d/18G0WcXLvX5m9Rar_Q_c77k_WDjjMHi2wAuCiXCynHJI/edit#slide=id.p1)   | Lars Ailo | Chapter 1 |
-| P1   | 23.08.22 | Precepts 1 (slides are in assignment repository) | Lars Ailo | -         |
+| P1   | 23.08.22 | [Precepts 1](https://docs.google.com/presentation/d/1G9bGPCN8dQBoD9W9WDQn7lHHCqdyZoLpBqy1hoC-Eto/edit#slide=id.p1) | Lars Ailo | -         |
 | L2   | 29.08.22 | [Instructions 1](https://docs.google.com/presentation/d/1enTL_d8FoxpBt8uEYd3thWolPcLe_O_VRD9nEhfls7I/edit#slide=id.p1) | Lars Ailo | Chapter 2 |
 | L3   | 30.08.22 | [Instructions 2](https://drive.google.com/file/d/1oP-XfW0V8ovFGW9tq7UcI20VIsbIPDlC/view?usp=sharing) | Vi        | Chapter 2 |
 | L4   | 06.09.22 | [Logic design](https://drive.google.com/file/d/1NYNTV4KDps1EEi_zvN7MILyZRhnJT-Xj/view?usp=sharing)   | Vi        | Appendix B |
