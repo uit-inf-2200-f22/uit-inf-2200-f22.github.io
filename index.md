@@ -41,7 +41,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | L3   | 30.08.22 | [Instructions 2](https://drive.google.com/file/d/1oP-XfW0V8ovFGW9tq7UcI20VIsbIPDlC/view?usp=sharing) | Vi        | Chapter 2 |
 | L4   | 06.09.22 | [Logic design](https://drive.google.com/file/d/1NYNTV4KDps1EEi_zvN7MILyZRhnJT-Xj/view?usp=sharing)   | Vi        | Appendix B |
 | L5   | 12.09.22 | [Arithmetic for computers](https://docs.google.com/presentation/d/1_orX8bTSOrvEQwpV4cnUpGp_3KNazTNzIwCI4RcC64Q/edit#slide=id.p1)     | Lars Ailo | Chapter 3 |
-| P2   | 20.09.22 | Precepts 2     | Lars Ailo | -         |
+| P2   | 20.09.22 | [Precepts 2](https://docs.google.com/presentation/d/1XeM0xKFgYygR4Cf_sfAJvNqK73WwWsHoiEwGCYGRI5Q/edit#slide=id.p1)     | Lars Ailo | -         |
 | L6   | 26.09.22 | Processor 1    | Lars Ailo | Chapter 4 |
 | L7   | 27.09.22 | Processor 2    | Lars Ailo | Chapter 4 |
 | L8   | 04.10.22 | Floating point | Lars Ailo | Chapter 3 |
