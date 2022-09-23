@@ -44,7 +44,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | P2   | 20.09.22 | [Precepts 2](https://docs.google.com/presentation/d/1XeM0xKFgYygR4Cf_sfAJvNqK73WwWsHoiEwGCYGRI5Q/edit#slide=id.p1)     | Lars Ailo | -         |
 | L6   | 26.09.22 | Processor 1    | Lars Ailo | Chapter 4 |
 | L7   | 27.09.22 | Processor 2    | Lars Ailo | Chapter 4 |
-| L8   | 04.10.22 | Floating point | Lars Ailo | Chapter 3 |
+| L8   | 03.10.22 | Floating point | Lars Ailo | Chapter 3 |
 | P3   | 18.10.22 | Precepts 3     | Vi        | -         |
 | L9   | 24.10.22 | Cache 1        | Vi        | Chapter 5 |
 | L10  | 25.10.22 | Cache 2        | Vi        | Chapter 5 |
