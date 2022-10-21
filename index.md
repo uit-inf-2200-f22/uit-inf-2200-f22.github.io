@@ -45,7 +45,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | L6   | 26.09.22 | [Processor 1](https://docs.google.com/presentation/d/1Ykl4SJQD25TwkFOPQtgSd4IWbBgX2VzGDPoqFL6BNKc/edit#slide=id.g15955294a00_1_106)    | Lars Ailo | Chapter 4.1-4.4, 4.6-4.7 |
 | L7   | 27.09.22 | Processor 2 (same slides as for part 1) | Lars Ailo | Chapter 4.8-4.13, 4.15-4.17 |
 | L8   | 03.10.22 | Floating point (self-study) | Lars Ailo | Chapter 3.5-3.11 |
-| P3   | 18.10.22 | Precepts 3     | Vi        | -         |
+| P3   | 18.10.22 | [Precepts 3](https://drive.google.com/file/d/1fC-YrwyMykVpzwqqFd-6aC_wmHplwg0N/view?usp=sharing)    | Vi        | -         |
 | L9   | 24.10.22 | Cache 1        | Vi        | Chapter 5 |
 | L10  | 25.10.22 | Cache 2        | Vi        | Chapter 5 |
 | L11  | 07.11.22 | Parallel 1     | Vi        | Chapter 6 |
