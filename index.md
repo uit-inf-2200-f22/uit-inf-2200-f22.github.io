@@ -47,7 +47,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | L8   | 03.10.22 | Floating point (self-study) | Lars Ailo | Chapter 3.5-3.11 |
 | P3   | 18.10.22 | [Precepts 3](https://drive.google.com/file/d/1fC-YrwyMykVpzwqqFd-6aC_wmHplwg0N/view?usp=sharing)    | Vi        | -         |
 | L9   | 24.10.22 | [Memory Hierarchy 1](https://drive.google.com/file/d/1xHQfkoEHrAuInQq7JfSvjoHVeDVxFDP9/view?usp=sharing)        | Vi        | Chapter 5 |
-| L10  | 25.10.22 | [Memory Hierarchy 2](https://drive.google.com/file/d/1xHQfkoEHrAuInQq7JfSvjoHVeDVxFDP9/view?usp=sharing)       | Vi        | Chapter 5 |
+| L10  | 25.10.22 | [Memory Hierarchy 2](https://drive.google.com/file/d/1xHQfkoEHrAuInQq7JfSvjoHVeDVxFDP9/view?usp=sharing) (same slides as for part 1)      | Vi        | Chapter 5 |
 | L11  | 07.11.22 | Parallel 1     | Vi        | Chapter 6 |
 | L12  | 14.11.22 | GPU            | Vi        | Appendix C |
 | L13  | 21.11.22 | Bonus          | Vi        | TBA        |
