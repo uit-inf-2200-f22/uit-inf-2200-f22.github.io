@@ -49,7 +49,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | L9   | 24.10.22 | [Memory Hierarchy 1](https://drive.google.com/file/d/1xHQfkoEHrAuInQq7JfSvjoHVeDVxFDP9/view?usp=sharing)        | Vi        | Chapter 5 |
 | L10  | 25.10.22 | [Memory Hierarchy 2](https://drive.google.com/file/d/1xHQfkoEHrAuInQq7JfSvjoHVeDVxFDP9/view?usp=sharing) (same slides as for part 1)      | Vi        | Chapter 5 |
 | L11  | 07.11.22 | [Parallel Processors](https://drive.google.com/file/d/1f_8nClmyg1ZFDb2PGzDZqoY1IUcd3K18/view?usp=share_link)     | Vi        | Chapter 6 |
-| L12  | 14.11.22 | GPU            | Vi        | Appendix C |
+| L12  | 14.11.22 | [GPUs](https://drive.google.com/file/d/1nnmGvbTpT_6WVHxZeIpJHaCnuyNXWTDi/view?usp=sharing)            | Vi        | Appendix C |
 | Exam | 02.12.22 | -              | -         | Everything |
 
 ## Mandatory assignments
